@@ -1,7 +1,5 @@
 # GettingAndCleaningData-Course
 
-* CodeBook.md describe las tablas que fueron creados durante el proceso, el número de variables y observaciones que contiene cada una, 
-  así como una descripción de los datos con los datos que se trabajaron. Describe el proceso que se llevó a cabo para llegar a crear una tabla ordenada.
 
 * CodeBook 
 	Describes tables that were created during the process, the number of variables and observatons for each variable,
